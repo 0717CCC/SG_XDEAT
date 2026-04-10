@@ -34,7 +34,7 @@ For each dataset, we evaluate:
 
 The corresponding code is located in **`Supplementary_Material/Experiments/Performance Comparison`**.  
 
-Note: Our evaluation currently covers mainstream deep learning baselines (e.g., FT-Transformer, ResNet). 
+Note: Our evaluation currently covers mainstream deep learning baselines (e.g., FT-Transformer). 
 We are actively integrating state-of-the-art retrieval-based models (TabR) and foundation models (TabPFN) into our unified framework.
 
 ### 🏆 Final Results
