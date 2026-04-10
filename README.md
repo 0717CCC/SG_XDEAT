@@ -34,12 +34,13 @@ For each dataset, we evaluate:
 
 The corresponding code is located in **`Supplementary_Material/Experiments/Performance Comparison`**.  
 
-Our evaluation currently covers mainstream deep learning baselines (e.g., FT-Transformer, ResNet). 
+Note: Our evaluation currently covers mainstream deep learning baselines (e.g., FT-Transformer, ResNet). 
 We are actively integrating state-of-the-art retrieval-based models (TabR) and foundation models (TabPFN) into our unified framework.
 
 ### 🏆 Final Results
 ![](Figure/Performance.png)
 
+"Statistical significance tests (Wilcoxon signed-rank test) and standard deviations over 5 seeds are detailed in the Supplementary_Material/Appendix.pdf."
 ---
 ### 🔀 Architectural Variants
 ![](Figure/Ablation_fig.png)
