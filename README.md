@@ -18,6 +18,8 @@ SG-XDEAT Tabular Learning/
 │
 ├── Figure/                            # Figures & Tables
 ├── SG_XDEAT-AAAI.pdf                  # Conference Paper For AAAI 2026 Submission
+├── Summary.pdf                        # 3 pages Summary For SG_XDEAT (pdf)
+├── Summary.docx                       # 3 pages Summary For SG_XDEAT (docx)
 ├── README.md                          # Documentation
 ```
 
