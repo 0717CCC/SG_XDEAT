@@ -9,7 +9,7 @@ SG-XDEAT Tabular Learning/
 ├── Supplementary_Material/            # Supplementary resources
 │ ├── Experiments/                     # Experimental results
 │ │ ├── ASSA/                          # Sparsity Related experiments
-│ │ ├── Architectural Comparison/      # Comparison across model architectures (  )
+│ │ ├── Architectural Comparison/      # Comparison across model architectures
 │ │ ├── Input Strategies/              # Different input handling strategies ( Raw & Targeted )
 │ │ ├── Performance Comparison/        # Performance benchmarking
 │ │
@@ -17,7 +17,7 @@ SG-XDEAT Tabular Learning/
 │ ├── ReproducibilityChecklist.pdf     # Checklist
 │
 ├── Figure/                            # Figures & Tables
-├── SG-XDEAT.pdf                       # Conference Paper
+├── SG_XDEAT-AAAI.pdf                  # Conference Paper For AAAI 2026 Submission
 ├── README.md                          # Documentation
 ```
 
