@@ -40,7 +40,7 @@ We are actively integrating state-of-the-art retrieval-based models (TabR) and f
 ### 🏆 Final Results
 ![](Figure/Performance.png)
 
-Statistical significance tests (Wilcoxon signed-rank test) and standard deviations over 5 seeds are detailed in the Supplementary_Material/Appendix.pdf.
+Statistical significance tests (Wilcoxon signed-rank test) and standard deviations over 5 seeds are detailed in the **`Supplementary_Material/Appendix.pdf`**.
 
 ---
 ### 🔀 Architectural Variants
