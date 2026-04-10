@@ -17,7 +17,7 @@ SG-XDEAT Tabular Learning/
 │ ├── ReproducibilityChecklist.pdf     # Checklist
 │
 ├── Figure/                            # Figures & Tables
-├── SG_XDEAT-AAAI.pdf                  # Conference Paper For AAAI 2026 Submission
+├── SG_XDEAT-v1.pdf                    # Conference Paper For AAAI 2026 Submission
 ├── Summary.pdf                        # 3 pages Summary For SG_XDEAT (pdf)
 ├── Summary.docx                       # 3 pages Summary For SG_XDEAT (docx)
 ├── README.md                          # Documentation
