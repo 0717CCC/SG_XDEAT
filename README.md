@@ -75,10 +75,10 @@ In this experiment, we evaluate two types of **input strategies**:
 1. **Raw Stream** : Direct raw feature values.  
 
 2. **Targeted Stream** : Feature values conditioned on labels (using PLE-T & DecisionTreeEncoder).
-( We ensure the target information is only derived from the training set, maintaining the integrity of the validation/testing phases. )
-     - *On Embeddings for Numerical Features in Tabular Deep Learning*  
-     - *Winning the KDD Cup Orange Challenge with Ensemble Selection*  
+     - PLE-T (Piecewise Linear Encoding with Target): Adapts numerical features based on target distribution.
+     - Decision Tree Encoder: Leverages tree-based partitions to capture non-linear label dependencies.
 
+Note: For **Targeted Stream**, We ensure the target information is only derived from the training set, maintaining the integrity of the validation/testing phases."
 We also investigate their **combinations**, such as **DFC** and **CD+CE**.
 
 The corresponding code is located in **`Supplementary_Material/Experiments/Input Strategies`**
